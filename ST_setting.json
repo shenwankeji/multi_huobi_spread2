@@ -1,0 +1,24 @@
+[
+  {
+    "name": "EOS_CW.HUOBI+EOS_CQ.HUOBI+1",
+    "buy_percent": -0.00001,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.1,
+    "maxOrderSize": 1,
+    "maxPosSize": 2,
+    "active_payup": 0.1,
+    "passive_payup": 0.1
+  },
+  {
+    "name": "EOS_CW.HUOBI+EOS_CQ.HUOBI+2",
+    "buy_percent": -0.00001,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.1,
+    "maxOrderSize": 1,
+    "maxPosSize": 2,
+    "active_payup": 0.1,
+    "passive_payup": 0.1
+  }
+]

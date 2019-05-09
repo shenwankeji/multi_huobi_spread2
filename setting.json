@@ -1,0 +1,68 @@
+[
+  {
+    "name": "BTC_NW.OKEX+BTC_CW.OKEX",
+    "buy_percent": -0.02,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.02,
+    "maxOrderSize": 10,
+    "maxPosSize": 90,
+    "active_payup": 0.5,
+    "passive_payup": 1
+  },
+  {
+    "name": "ETH_CQ.OKEX+ETH_NW.OKEX",
+    "buy_percent": -0.02,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.02,
+    "maxOrderSize": 10,
+    "maxPosSize": 90,
+    "active_payup": 0.5,
+    "passive_payup": 1
+  },
+  {
+    "name": "EOS_CQ.OKEX+EOS_NW.OKEX",
+    "buy_percent": -0.02,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.02,
+    "maxOrderSize": 10,
+    "maxPosSize": 90,
+    "active_payup": 0.5,
+    "passive_payup": 1
+  },
+  {
+    "name": "ETC_CQ.OKEX+ETC_NW.OKEX",
+    "buy_percent": -0.02,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.02,
+    "maxOrderSize": 10,
+    "maxPosSize": 90,
+    "active_payup": 0.5,
+    "passive_payup": 1
+  },
+  {
+    "name": "LTC_CQ.OKEX+LTC_NW.OKEX",
+    "buy_percent": -0.02,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.02,
+    "maxOrderSize": 10,
+    "maxPosSize": 90,
+    "active_payup": 0.5,
+    "passive_payup": 1
+  },
+  {
+    "name": "XRP_CQ.OKEX+XRP_NW.OKEX",
+    "buy_percent": -0.02,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.02,
+    "maxOrderSize": 10,
+    "maxPosSize": 90,
+    "active_payup": 0.5,
+    "passive_payup": 1
+  }
+]

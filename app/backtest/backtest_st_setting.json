@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BTC_CQ.OKEX+BTC_CW.OKEX",
+    "buy_percent": -0.02,
+    "sell_percent": 0,
+    "cover_percent": 0,
+    "short_percent": 0.02,
+    "maxOrderSize": 38,
+    "maxPosSize": 38,
+    "active_payup": 0.5,
+    "passive_payup": 1
+  }
+]
